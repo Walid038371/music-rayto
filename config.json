@@ -1,7 +1,7 @@
 {
-    "token": "TOKEN_APP",
-    "prefix": "PREFIX",
-    "cookie": "COOKIE_YOUTUBE",
+    "token": "MTAyODc3NjkwNTAyMjkwNjQ1OA.GJt02Q.kOsVMaTqVnhzKgpvEbaTh9B1HwcnTVQEsmAum8",
+    "prefix": "+",
+    "cookie": "https://youtube.com/channel/UCqrpQNLB16iMKoqMUpzbqvQ",
     "spotifyapi": {
         "enabled": true,
         "clientSecret": "CLIENT_SECRET_SPOTIFY",
